@@ -9,7 +9,7 @@ Make sure you refer to the [Kickoff Document](#) for additional details and guid
 ## 1: Basic Information (To be completed before you start your Sprint)
 
 ### Project Information:
-- **Topic Chosen**: _Your chosen topic name_
+- **Topic Chosen**: Course Planning Tool for Instructors
 - **Sprint Number**: 1
 - **Scrum Master**: Sierra Campuzano
 - **Git Master**: Roger Rodriguez
@@ -17,8 +17,55 @@ Make sure you refer to the [Kickoff Document](#) for additional details and guid
 ### Sprint Planning (For Sprint 1-3):
 Fill out your Sprint Planning here, based on the kickoff document and your team's discussions.
 
+#### Sprint 1 Meeting #1 :
+**Date:** October 22, 2026  10am-12:30pm
+**Next Meeting:** October 23, 2026, at 10:00 AM via Zoom
+
+#### 1. Project Topic Selection
+- Discussed the pros and cons of the available project topics.
+- Reached a team decision to proceed with the **Course Planning Tool for Instructors**.
+
+#### 2. Scrum Master and Git Master Roles
+- Clarified the Scrum Master and Git Master designations for Sprint 1.
+- Decided that both roles will be assigned at the beginning of each sprint rather than planning role assignments for all future sprints in advance.
+- Reviewed the responsibilities associated with each role, as outlined in the *Project Module Concepts* document on Canva.
+
+#### 3. Sprint 1 User Stories
+- Reviewed the eight user stories provided by the professor and identified the remaining work needed to prepare them for Sprint 1.
+- Christian will create acceptance tests for the two remaining user stories by end of the day (EOD) 10/22.
+- Sierra will copy the tasks from the example Taiga board by EOD 10/22.
+- Discussed the process for creating the three additional user stories required for Sprint 1.
+- Each team member will post one proposed user story in the team’s Slack channel by the EOD on October 22.
+- The Scrum Master (Sierra) will use team input to determine which three user stories will be added to the product backlog and which one will be selected for implementation in Sprint 1.
+
+#### 4. Quality and Git Standards
+- Discussed the quality and Git standards that need to be documented in `QualityProduct.md`.
+- Ben will write the agreed upon standards in the document before the next meeting on October 23 at 10:00 AM.
+
+#### 5. Sprint Planning Deliverable
+- Discussed the components of sprint planning that need to be included in `Deliverable1.md`.
+- Sierra will complete the sprint planning section of `Deliverable1.md` before the next meeting on October 23 at 10:00 AM.
+
+#### 6. Next Steps and Follow-Up Meeting
+- The team agreed that additional work is needed to complete Sprint 1 planning.
+- Most team members plan to reconvene on October 23 at 10:00 AM via Zoom to continue and finalize the outstanding planning activities.
+
+#### Action Items
+
+| Action Item                                                                   | Owner                   | Deadline                      |
+|-------------------------------------------------------------------------------|-------------------------|-------------------------------|
+| Create acceptance tests for the two remaining user stories                    | Christian               | EOD, October 22               |
+| Copy tasks from the example Taiga board                                       | Sierra                  | EOD, October 22               |
+| Create tasks for remaining user stories Taiga board                           | TBD                     | TBD                           |
+| Post one proposed user story in Slack                                         | Each team member        | EOD, October 22               |
+| Select the three additional user stories for the product backlog and Sprint 1 | Sierra, with team input | To be determined              |
+| Document quality and Git standards in `QualityProduct.md`                     | Ben                     | Before 10:00 AM, October 23   |
+| Complete the sprint planning section of `Deliverable1.md`                     | Sierra                  | Before 10:00 AM, October 23   |
+
+
 #### Sprint Goal:
-- **Sprint Goal**: _Clearly state the goal of the sprint._
+- **Sprint Goal**: Deliver the updated branding and navigation, provide a functional basic login screen, and improve compatibility with modern JDKs by addressing legacy build warnings.
+
 
 #### Product Backlog & Sprint Backlog:
 - **User Stories in Product Backlog**: _Number of User Stories added to the Product Backlog_
