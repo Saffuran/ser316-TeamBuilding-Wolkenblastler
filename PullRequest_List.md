@@ -7,4 +7,4 @@
 | Christian Doerr   | https://github.com/cdoerr12/Icebreaker--SER316                                                                                               |
 | Roger Rodriguez   |                                                                                                                                              |
 | Jason Elliott     | https://github.com/aabachm2/story-time/pull/5                                                                                                |
-| Haley Rupar       |                                                                                                                                              |
+| Haley Rupar       | https://github.com/hprupar/Icebreaker--SER316                                                                                                                                              |
